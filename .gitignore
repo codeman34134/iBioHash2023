@@ -1,0 +1,13 @@
+
+
+.idea
+.vscode
+logs
+# 大文件
+
+*.tar
+*.pth
+*.tar
+*.csv
+*.pkl
+*events*
